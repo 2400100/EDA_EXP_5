@@ -35,8 +35,8 @@ To perform bivariate analysis on COVID-19 data and study the relationship betwee
 
 **Program**
 
-**# Your Name
-# Your Reg No.**
+**# Your Name**
+**# Your Reg No.**
 
 # Write your code here
 
